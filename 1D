@@ -2086,10 +2086,10 @@ setInterval(function() {
     <div id="stuInfo"></div>
     <div id="stuQInfo"></div>
     <div>
-        <span id="timerEl">🕒 00:00</span>
-        <span id="reviewCounter" style="margin-left: 20px; color: #1E90FF; font-weight: bold;"> ✏️ ANSWERED REVIEWS: 0/10</span>
-        <span id="violationCounter" style="margin-left: 20px; color: orange; font-weight: bold; display: none;">⚠️ Violations: 0/3</span>
         <span id="navViolationCounter" style="margin-left: 20px; color: orange; font-weight: bold; display: none;">⚠️ Searching: 0/5</span>
+        <span id="violationCounter" style="margin-left: 20px; color: orange; font-weight: bold; display: none;">⚠️ Violations: 0/3</span> 
+        <span id="reviewCounter" style="margin-left: 20px; color: #1E90FF; font-weight: bold;"> ✏️ ANSWERED REVIEWS: 0/10</span>
+        <span id="timerEl">🕒 00:00</span>
     </div>
 </div>
     <!-- ===== PROGRESS BAR ===== -->
